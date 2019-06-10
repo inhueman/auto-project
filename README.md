@@ -1,0 +1,1 @@
+Inspired by Kalle Hallden's 'One Day Builds: Automating My Projects With Python', here is my implementation of his project.
