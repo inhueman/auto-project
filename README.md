@@ -11,4 +11,5 @@ Inspired by Kalle Hallden's 'One Day Builds: Automating My Projects With Python'
 <br>3. After completeing step 2, drag 'create.bat' to your System32 folder located typically at path C:\Windows\System32
 
 <h2>Usage</h2>
-This script, when implemented correctly, will allow the user to create a new project directory and GitHub repository autonomously from the command line. After doing this, the script will then proceed to open up the newly created directory in Visual Studio Code.<br>After the steps above have been completed, the user should be able to use the command 'create project-name' from any directory on their machine.
+This script, when implemented correctly, will allow the user to create a new project directory and GitHub repository autonomously from the command line. After doing this, the script will then proceed to open up the newly created directory in Visual Studio Code.
+<br><br>After the steps above have been completed, the user should be able to use the command 'create project-name' from any directory on their machine.
